@@ -1,0 +1,11 @@
+Employee No.,Employee Name,Category,Joining Date,Retirement Date,Designation,Department,PAN No.,Bank A/C No.,PF A/C No.,Cash Allowance,Band Pay,Grade Pay,IR
+"Employee No. if there is none
+then simply maintain a Serial No.",Name of the Employee,Put 1 For Regular Employee,YYYY-MM-DD,YYYY-MM-DD,if there is none put NA,if there is none put NA,if there is none put NA,"Bank A/C No. where 
+Salary is credited
+For no value put NA",if there is none put NA,Put 0 if no value,Put 0 if no value,Put 0 if no value,Put 0 if no value
+,,2 For Contractual Employee,,,,,,,,,,,
+,,3 For Daily Wages Employee,,,,,,,,,,,
+,,4 For Contingent Labours,,,,,,,,,,,
+,,,,,,,,,,,,,
+225,Jayant Sharma,1,2011-08-05,2035-08-31,Manager,IT,ATGPM8526N,8102245789526,NA,0,30000,25000,4000
+226,Riya Mukherjee,2,2017-12-07,2040-12-31,Software Engineer,IT,ATGPG8746N,7458987775846,1122/8549-978,0,20000,15000,5500
